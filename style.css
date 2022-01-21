@@ -13,7 +13,7 @@ section{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background: url(assets/bg.jpg)no-repeat;
+    background: url(assets/BG.jpg)no-repeat;
     background-size: cover;
     background-position: center;
 }
